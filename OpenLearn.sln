@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLearn", "OpenLearn.csproj", "{8AC6A987-95C6-4CDE-96EE-141EB58F9BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC6A987-95C6-4CDE-96EE-141EB58F9BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC6A987-95C6-4CDE-96EE-141EB58F9BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC6A987-95C6-4CDE-96EE-141EB58F9BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC6A987-95C6-4CDE-96EE-141EB58F9BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902F45BB-31C8-4305-8A37-F0651B626BD2}
+	EndGlobalSection
+EndGlobal
